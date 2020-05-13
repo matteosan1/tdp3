@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/" >
+        <file>images/tufo.png</file>
+        <file>images/aquila.png</file>
+        <file>images/bruco.png</file>
+        <file>images/chiocciola.png</file>
+        <file>images/civetta.png</file>
+        <file>images/drago.png</file>
+        <file>images/giraffa.png</file>
+        <file>images/istrice.png</file>
+        <file>images/leocorno.png</file>
+        <file>images/lupa.png</file>
+        <file>images/nicchio.png</file>
+        <file>images/oca.png</file>
+        <file>images/onda.png</file>
+        <file>images/pantera.png</file>
+        <file>images/selva.png</file>
+        <file>images/tartuca.png</file>
+        <file>images/torre.png</file>
+        <file>images/valdimontone.png</file>
+    </qresource>
+</RCC>
